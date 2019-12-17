@@ -1,0 +1,17 @@
+com/mindata/blockmanager/model/Permission.class
+com/mindata/blockmanager/repository/MemberGroupRepository.class
+com/mindata/blockmanager/bean/PermissionData.class
+com/mindata/blockmanager/manager/MemberGroupManager.class
+com/mindata/blockmanager/model/Member.class
+com/mindata/blockmanager/repository/PermissionRepository.class
+com/mindata/blockmanager/manager/PermissionManager.class
+com/mindata/blockmanager/repository/MemberRepository.class
+com/mindata/blockmanager/bean/BaseData.class
+com/mindata/blockmanager/controller/MemberController.class
+com/mindata/blockmanager/MdBlockchainManagerApplication.class
+com/mindata/blockmanager/controller/PermissionController.class
+com/mindata/blockmanager/manager/MemberManager.class
+com/mindata/blockmanager/constant/PermissionType.class
+com/mindata/blockmanager/model/base/BaseEntity.class
+com/mindata/blockmanager/model/MemberGroup.class
+com/mindata/blockmanager/bean/MemberData.class

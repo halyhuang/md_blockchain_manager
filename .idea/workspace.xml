@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="778d8b27-28d5-450d-b648-dcfefa7c8107" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/MdBlockchainManagerApplication.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/MdBlockchainManagerApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/bean/BaseData.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/bean/BaseData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/bean/MemberData.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/bean/MemberData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/bean/PermissionData.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/bean/PermissionData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/controller/MemberController.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/controller/MemberController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/controller/PermissionController.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/controller/PermissionController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/manager/MemberManager.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/manager/MemberManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/manager/PermissionManager.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/manager/PermissionManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/model/Member.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/model/Member.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/model/MemberGroup.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/model/MemberGroup.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/model/Permission.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/model/Permission.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/model/base/BaseEntity.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/model/base/BaseEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/repository/MemberRepository.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/repository/MemberRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/repository/PermissionRepository.class" afterPath="$PROJECT_DIR$/target/classes/com/mindata/blockmanager/repository/PermissionRepository.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logback.log" afterPath="$PROJECT_DIR$/logback.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/application-prod.yml" afterPath="$PROJECT_DIR$/target/classes/application-prod.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -101,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application-prod.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application-prod.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -503,7 +485,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576426217074</updated>
       <workItem from="1576426452931" duration="565000" />
-      <workItem from="1576596793979" duration="2467000" />
+      <workItem from="1576596793979" duration="2742000" />
     </task>
     <servers />
   </component>
@@ -516,7 +498,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3032000" />
+    <option name="totallyTimeSpent" value="3307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -542,7 +524,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.8583691" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3446191" sideWeight="0.49427754" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3083434" sideWeight="0.4792561" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3083434" sideWeight="0.4792561" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21745351" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32168674" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -644,18 +626,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>

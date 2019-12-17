@@ -3,6 +3,6 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://134.175.200.231:3306/blockchain_manager?autoReconnect=true&useUnicode=true
     username: haly
-    password: Hhl@1234gi
+    password: Hhl@1234
 server:
   port: 8080

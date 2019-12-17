@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://134.175.200.231:3306/blockchain_manager?autoReconnect=true&useUnicode=true
-    username: Hhl@1234
-    password: haly
+    username: haly
+    password: Hhl@1234gi
 server:
   port: 8080
